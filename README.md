@@ -13,7 +13,7 @@ Este projeto é uma solução de alta performance para o processamento diário d
 
 O sistema é composto por 4 microserviços que se comunicam de forma assíncrona via Apache Kafka.
 
-![Arquitetura do Sistema](file:///home/felipe/Área de trabalho/bank/arquitetura-final.png)
+![Arquitetura do Sistema](docs/arquitetura1.png)
 
 ### 🧩 Microserviços
 
