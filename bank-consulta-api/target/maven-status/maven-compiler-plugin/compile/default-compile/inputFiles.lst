@@ -1,0 +1,9 @@
+/home/felipe/Área de trabalho/bank/bank-consulta-api/src/main/java/com/ufelps/bank_consulta_api/BankConsultaApiApplication.java
+/home/felipe/Área de trabalho/bank/bank-consulta-api/src/main/java/com/ufelps/bank_consulta_api/controller/EncargoController.java
+/home/felipe/Área de trabalho/bank/bank-consulta-api/src/main/java/com/ufelps/bank_consulta_api/dto/EncargoDto.java
+/home/felipe/Área de trabalho/bank/bank-consulta-api/src/main/java/com/ufelps/bank_consulta_api/dto/PageDto.java
+/home/felipe/Área de trabalho/bank/bank-consulta-api/src/main/java/com/ufelps/bank_consulta_api/mapper/EncargoMapper.java
+/home/felipe/Área de trabalho/bank/bank-consulta-api/src/main/java/com/ufelps/bank_consulta_api/model/Encargo.java
+/home/felipe/Área de trabalho/bank/bank-consulta-api/src/main/java/com/ufelps/bank_consulta_api/model/StatusEncargo.java
+/home/felipe/Área de trabalho/bank/bank-consulta-api/src/main/java/com/ufelps/bank_consulta_api/repository/EncargoRepository.java
+/home/felipe/Área de trabalho/bank/bank-consulta-api/src/main/java/com/ufelps/bank_consulta_api/service/EncargoService.java

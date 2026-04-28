@@ -1,0 +1,24 @@
+spring:
+  application:
+    name: bank-consulta-api
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/bank_lancamento
+    username: postgres
+    password: password
+    driver-class-name: org.postgresql.Driver
+
+  h2:
+    console:
+      enabled: true
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+server:
+  port: 8040
